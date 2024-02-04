@@ -6,7 +6,7 @@ This Sorting Visualizer is a simple Python application that allows you to visual
 2. Adjustable array size and speed for better visualization.
 3. User-friendly interface.
 
-#Sorting Algorithms
+# Sorting Algorithms
 Bubble Sort: Simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
 Merge Sort: Divide and conquer algorithm that divides the input array into two halves, recursively sorts them, and then merges the sorted halves.
